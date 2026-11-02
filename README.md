@@ -4,4 +4,4 @@
   <img alt="jadhavjester's GitHub profile" src="dark_mode.svg" />
 </picture>
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=jadhavjester&theme=dark&hide_border=true&cache_bust=1697040000)
+![](https://github-readme-streak-stats.herokuapp.com/?user=utkarshgupta188&theme=dark&hide_border=true&cache_bust=1697040000)
